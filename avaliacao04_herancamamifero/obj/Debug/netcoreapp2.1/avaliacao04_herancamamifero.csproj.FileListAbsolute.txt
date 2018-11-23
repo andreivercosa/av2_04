@@ -1,0 +1,11 @@
+/Users/aluno/Projects/avaliacao04_herancamamifero/avaliacao04_herancamamifero/bin/Debug/netcoreapp2.1/avaliacao04_herancamamifero.deps.json
+/Users/aluno/Projects/avaliacao04_herancamamifero/avaliacao04_herancamamifero/bin/Debug/netcoreapp2.1/avaliacao04_herancamamifero.runtimeconfig.json
+/Users/aluno/Projects/avaliacao04_herancamamifero/avaliacao04_herancamamifero/bin/Debug/netcoreapp2.1/avaliacao04_herancamamifero.runtimeconfig.dev.json
+/Users/aluno/Projects/avaliacao04_herancamamifero/avaliacao04_herancamamifero/bin/Debug/netcoreapp2.1/avaliacao04_herancamamifero.dll
+/Users/aluno/Projects/avaliacao04_herancamamifero/avaliacao04_herancamamifero/bin/Debug/netcoreapp2.1/avaliacao04_herancamamifero.pdb
+/Users/aluno/Projects/avaliacao04_herancamamifero/avaliacao04_herancamamifero/obj/Debug/netcoreapp2.1/avaliacao04_herancamamifero.csprojAssemblyReference.cache
+/Users/aluno/Projects/avaliacao04_herancamamifero/avaliacao04_herancamamifero/obj/Debug/netcoreapp2.1/avaliacao04_herancamamifero.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/avaliacao04_herancamamifero/avaliacao04_herancamamifero/obj/Debug/netcoreapp2.1/avaliacao04_herancamamifero.AssemblyInfoInputs.cache
+/Users/aluno/Projects/avaliacao04_herancamamifero/avaliacao04_herancamamifero/obj/Debug/netcoreapp2.1/avaliacao04_herancamamifero.AssemblyInfo.cs
+/Users/aluno/Projects/avaliacao04_herancamamifero/avaliacao04_herancamamifero/obj/Debug/netcoreapp2.1/avaliacao04_herancamamifero.dll
+/Users/aluno/Projects/avaliacao04_herancamamifero/avaliacao04_herancamamifero/obj/Debug/netcoreapp2.1/avaliacao04_herancamamifero.pdb
